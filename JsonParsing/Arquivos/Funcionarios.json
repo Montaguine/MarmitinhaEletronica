@@ -1,56 +1,37 @@
 [
   {
+    "Nome": "Charles",
     "Id": 1,
-    "Nome": "Marmita de Frango",
-    "Tipo": 0,
-    "Vegetariano": false,
-    "Preco": 18.00,
-    "Descricao": "Marmita de frango muito boa e �pica",
-    "Calorias": 500
+    "Mesas": 0
   },
   {
+    "Nome": "Igor",
     "Id": 2,
-    "Nome": "Marmita de Porco",
-    "Tipo": 0,
-    "Vegetariano": false,
-    "Preco": 19.00,
-    "Descricao": "Marmita de porco muito boa e �pica",
-    "Calorias": 700
+    "Mesas": 0
   },
   {
+    "Nome": "Luana",
     "Id": 3,
-    "Nome": "Marmita de Casal",
-    "Tipo": 0,
-    "Vegetariano": false,
-    "Preco": 21.00,
-    "Descricao": "Marmita para casais, serve duas pessoas",
-    "Calorias": 1000
+    "Mesas": 0
   },
   {
+    "Nome": "Monalisa",
     "Id": 4,
-    "Nome": "Salada Caesar",
-    "Tipo": 2,
-    "Vegetariano": false,
-    "Preco": 11.00,
-    "Descricao": "Salada com frango e molho Caesar",
-    "Calorias": 450
+    "Mesas": 0
   },
   {
+    "Nome": "Pedro",
     "Id": 5,
-    "Nome": "Salada de Maionese",
-    "Tipo": 2,
-    "Vegetariano": true,
-    "Preco": 10.50,
-    "Descricao": "Cl�ssica salada de maionese",
-    "Calorias": 600
+    "Mesas": 0
   },
   {
+    "Nome": "Vinicius",
     "Id": 6,
-    "Nome": "Salada Grega",
-    "Tipo": 2,
-    "Vegetariano": false,
-    "Preco": 11.00,
-    "Descricao": "Salada com várias coisas como olivas, chu-chu e tomates",
-    "Calorias": 450
+    "Mesas": 0
+  },
+  {
+    "Nome": "Yuri",
+    "Id": 7,
+    "Mesas": 0
   }
 ]
